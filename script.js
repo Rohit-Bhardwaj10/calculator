@@ -23,3 +23,4 @@ reset.addEventListener('click',function(e){
 equal.addEventListener('click',function(e){
     display.textContent=eval(display.textContent)
 })
+
